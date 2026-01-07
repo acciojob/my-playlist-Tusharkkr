@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-* {
+		* {
             /* margin: 0; */
             padding: 0;
             box-sizing: border-box;
@@ -15,8 +15,8 @@
         }
         h2{
 	       margin-top:0;
-       }
-       h5{
+        }
+        h5{
 	      margin-bottom:0px;
 	      margin-left:20px;
 		  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
