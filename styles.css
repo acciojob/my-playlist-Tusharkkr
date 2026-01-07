@@ -50,10 +50,13 @@
         .player_one {
             height: 437px;
             padding: 25px 25px 0px 25px;
-			margin-bottom:0px
+			margin-bottom:0px;
+			background-color: rgb(255, 255, 255);
+			border-radius:1px solid black
         }
 
         .player_two {
             width: 100%;
             padding: 10px;
+			background-color: rgb(255, 255, 255);
         }
